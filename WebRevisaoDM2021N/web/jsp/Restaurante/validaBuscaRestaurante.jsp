@@ -20,7 +20,7 @@
         <% if(rSaida != null) { %>
             Usuario = <%=rSaida.getId()%> | <%=rSaida.getNome()%> | <%=rSaida.getCep()%> | <%=rSaida.getEndereco()%> | <%=rSaida.getBairro()%> | <%=rSaida.getTelefone()%>  <br>   
         <% } else { %>
-            Restaurante Inválido
+            ID Inválido!
         <% } %>
     </div>
     </body>
