@@ -34,8 +34,8 @@ public class DaoFornecedor {
                 // criando o objeto Usuario
                 retorno = new Fornecedor(
                         fornecedor.getInt(1),
-                        fornecedor.getString(2),
                         fornecedor.getString(3),
+                        fornecedor.getString(2),
                         fornecedor.getString(4),
                         fornecedor.getString(5),
                         fornecedor.getString(6));
@@ -120,8 +120,8 @@ public class DaoFornecedor {
                 // criando o objeto Usuario
                 Fornecedor fornecedorSaida = new Fornecedor(
                         fornecedor.getInt(1),
-                        fornecedor.getString(2),
                         fornecedor.getString(3),
+                        fornecedor.getString(2),
                         fornecedor.getString(4),
                         fornecedor.getString(5),
                         fornecedor.getString(6));
