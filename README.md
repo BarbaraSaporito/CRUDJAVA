@@ -2,6 +2,10 @@
 Projeto para fins acadêmicos na linguagem Java.
 Sendo um CRUD no padrão MVC com opções de busca, adcionar, deletar dados em conexão com o banco de dados Mysql.
 
+![java](https://i.imgur.com/E8nOKKg.png?1)
+
+
+
 ## Começando bem
 
 Esse projeto é uma página web simples, onde é necessario fazer um longin para acesso. 
